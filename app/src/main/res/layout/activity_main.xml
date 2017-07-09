@@ -16,22 +16,22 @@
 
 
     <TextView
-        style="@style/CategoryStyle"
         android:id="@+id/parks"
+        style="@style/CategoryStyle"
         android:background="@color/main_park_color"
         android:fontFamily="sans-serif-condensed"
-        android:text="@string/park_name"/>
+        android:text="@string/park_name" />
 
     <TextView
-        style="@style/CategoryStyle"
         android:id="@+id/restuarant"
+        style="@style/CategoryStyle"
         android:background="@color/main_restuarant_color"
         android:fontFamily="sans-serif-condensed"
         android:text="@string/pub_name" />
 
     <TextView
-        style="@style/CategoryStyle"
         android:id="@+id/hotel"
+        style="@style/CategoryStyle"
         android:background="@color/main_hotel_color"
         android:fontFamily="sans-serif-condensed"
         android:text="@string/hotel_name" />
