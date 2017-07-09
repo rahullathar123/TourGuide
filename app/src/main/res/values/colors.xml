@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#FFD180</color>
+    <color name="Tourist_color">#FF7043</color>
+    <color name="Hotels_color">#558B2F</color>
+    <color name="Park_color">#00B8D4</color>
+    <color name="Restuarant_color">#4FC3F7</color>
+    <color name="main_tourist_color">#A7FFEB</color>
+    <color name="main_hotel_color">#558B2F</color>
+    <color name="main_park_color">#FFC107</color>
+    <color name="main_restuarant_color">#FF9100</color>
+</resources>

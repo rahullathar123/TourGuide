@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.example.nevergiveup.tourguide.MainActivity">
+
+    <TextView
+        android:id="@+id/tourist"
+        style="@style/CategoryStyle"
+        android:background="@color/main_tourist_color"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/tourist_name" />
+
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:id="@+id/parks"
+        android:background="@color/main_park_color"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/park_name"/>
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:id="@+id/restuarant"
+        android:background="@color/main_restuarant_color"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/pub_name" />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:id="@+id/hotel"
+        android:background="@color/main_hotel_color"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/hotel_name" />
+
+</LinearLayout>

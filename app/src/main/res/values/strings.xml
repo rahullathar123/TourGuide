@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="tourist_name">Tourist Places</string>
+    <string name="park_name">Parks List</string>
+    <string name="pub_name">Restaurants and Pub</string>
+    <string name="hotel_name">Hotels</string>
+</resources>
