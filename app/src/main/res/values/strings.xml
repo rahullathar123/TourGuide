@@ -1,7 +1,106 @@
 <resources>
+
+    -------------------- Tourist---------------------------------
     <string name="app_name">Tour Guide</string>
     <string name="tourist_name">Tourist Places</string>
     <string name="park_name">Parks List</string>
     <string name="pub_name">Restaurants and Pub</string>
     <string name="hotel_name">Hotels</string>
+    <string name="tourist1_name">CN Tower</string>
+    <string name="tourist1_add">301 Front St W, Toronto,ON M5V 2T6</string>
+    <string name="tourist2_name">Hockey hall of fame</string>
+    <string name="tourist2_add">30 Yonge St,Toronto,ON M5E 1X8</string>
+    <string name="tourist3_name">Royal Ontario Museum,</string>
+    <string name="tourist3_add">100 Queens Park,Toronto,ON M5S 2C6</string>
+    <string name="tourist4_name">Art gallery of Ontario</string>
+    <string name="tourist4_add">317 Dundas St W, Toronto, ON M5T 1G4</string>
+    <string name="tourist5_name">Ripley  aquarium of Canada</string>
+    <string name="tourist5_add">288 Bremner Blvd, Toronto, ON M5V 3L9</string>
+    <string name="tourist6_name">Toronto Islands</string>
+    <string name="tourist6_add">9 Queens Quay West, Toronto, Ontario M5J 2H3, Canada</string>
+    <string name="tourist7_name">Toronto Eaton Center </string>
+    <string name="tourist7_add">220 Yonge St, Toronto, ON M5B 2H1</string>
+    <string name="tourist8_name">Ontario science Center </string>
+    <string name="tourist8_add">770 Don Mills Rd, North York, ON M3C 1T3</string>
+    <string name="tourist9_name">Union Center </string>
+    <string name="tourist9_add">65 Front St W, Toronto, ON M5J 1E6</string>
+    <string name="tourist10_name">Allan Gardens </string>
+    <string name="tourist10_add">19 Horticultural Ave, Toronto, ON M5A 2P2</string>
+    <string name="tourist11_name">RiCasa Loma1 Austin Terrace, Toronto, ON M5R 1X8</string>
+    <string name="tourist11_add">1 Austin Terrace, Toronto, ON M5R 1X8</string>
+    <string name="tourist12_name">Toronto Waterfront </string>
+    <string name="tourist12_add">20 Bay St, Toronto, ON M5J 2N8</string>
+
+    ------------------------Hotels-----------------------------------
+
+    <string name="hotel1_name">DoubleTree by Hilton Hotel Toronto Downtown</string>
+    <string name="hotel1_add">108 Chestnut St, Toronto, ON M5G 1R3</string>
+    <string name="hotel2_name">Toronto Marriott Downtown Eaton Centre Hotel</string>
+    <string name="hotel2_add">525 Bay St, Toronto, ON M5G 2L2</string>
+    <string name="hotel3_name">Courtyard by Marriott Toronto Downtown</string>
+    <string name="hotel3_add">475 Yonge St, Toronto, ON M4Y 1X7</string>
+    <string name="hotel4_name">heraton Centre Hotel</string>
+    <string name="hotel4_add">123 Queen St W, Toronto, ON M5H 2M9</string>
+    <string name="hotel5_name">Cambridge Suites Hotel Toronto</string>
+    <string name="hotel5_add">15 Richmond St E, Toronto, ON M5C 1N2</string>
+    <string name="hotel6_name">SoHo Metropolitan Hotel</string>
+    <string name="hotel6_add">318 Wellington St W, Toronto, ON M5V 3T4</string>
+    <string name="hotel7_name">Ritz-Carlton Toronto</string>
+    <string name="hotel7_add"> Wellington St W, Toronto, ON M5J 2H5</string>
+    <string name="hotel8_name">One King Street West</string>
+    <string name="hotel8_add">1 King St W, Toronto, ON M5H 1A1</string>
+    <string name="hotel9_name">Town Inn Suites </string>
+    <string name="hotel9_add">620 Church St, Toronto, ON M4Y 2G2</string>
+    <string name="hotel10_name">Trump International Hotel and Tower</string>
+    <string name="hotell0_add">20 Bay St, Toronto, ON M5J 2N8</string>
+
+    --------------------------parks-----------------------
+
+
+    <string name="park1_name">Abbotsford Park</string>
+    <string name="park1_add">2 A ABBOTSFORD RD, ON M6V 2T6</string>
+    <string name="park2_name">Acacia Park</string>
+    <string name="park2_add">68 LILAC AVE, Toronto, ON M7E 1X8</string>
+    <string name="park3_name">Academy Soccer Field</string>
+    <string name="park3_add"> 95 JONESVILLE CRES, Toronto, ON M2S 2C6</string>
+    <string name="park4_name">Adams Park</string>
+    <string name="park4_add">2 ROZELL RD, Toronto, ON M5T 1G5</string>
+    <string name="park5_name">Adanac Park</string>
+    <string name="park5_add">15 BELMUIR PL, Toronto, ON M5V 3L9</string>
+    <string name="park6_name">Addington Greenbelt</string>
+    <string name="park6_add">15 BRENTWOOD AVE,  Toronto, Ontario M5J 2H4, Canada</string>
+    <string name="park7_name">Agincourt Park</string>
+    <string name="park7_add">27 GLEN WATFORD DR, Toronto, ON M9B 2H2</string>
+    <string name="park8_name">Ailsa Craig Parkette</string>
+    <string name="park8_add">16 AILSA CRAIG CRT, Toronto, ON M5J 1E6</string>
+    <string name="park9_name">Alamosa Park </string>
+    <string name="park9_add">111 ALAMOSA DR, Toronto, ON M5A 2P2</string>
+    <string name="park10_name">Alan - Oxford Parkette</string>
+    <string name="park10_add">31 ALAN AVE, Toronto, ON M5R 1X8</string>
+    <string name="park11_name">Albert Campbell Square</string>
+    <string name="park11_add">150 BOROUGH DR, Toronto, ON M5J 2N8</string>
+
+    ----------------------------Restuarants------------------------
+    <string name="rest1_name">Scaramouche Restaurant</string>
+    <string name="rest1_add">1 Benvenuto Pl, Toronto, ON M4V 2L1</string>
+    <string name="rest2_name">The Keg Mansion</string>
+    <string name="rest2_add">515 Jarvis St, Toronto, ON M4Y 2H7</string>
+    <string name="rest3_name">George Restaurant</string>
+    <string name="rest3_add">111C Queen St E, Toronto, ON M5C 1S2</string>
+    <string name="rest4_name">Blu Ristorante  Lounge</string>
+    <string name="rest4_add">17 Yorkville Ave, Toronto, ON M4W 1L1</string>
+    <string name="rest5_name">The Senator Restaurant</string>
+    <string name="rest5_add">249 Victoria St, Toronto, ON M5B 1V8</string>
+    <string name="rest6_name">The Elm Tree Restaurant</string>
+    <string name="rest6_add">43 Elm St, Toronto, ON M5G 1H1</string>
+    <string name="rest7_name">Sunset Grill</string>
+    <string name="rest7_add">1 Richmond St W, Toronto, ON M5H 3W4</string>
+    <string name="rest8_name">Carisma Restaurant</string>
+    <string name="rest8_add">73 King St E, Toronto, ON M5C 1G3</string>
+    <string name="rest9_name">Eggspectation </string>
+    <string name="rest9_add">20 Albert St, Toronto, ON M5G 2C9</string>
+    <string name="rest10_name">Richmond Station</string>
+    <string name="rest10_add">1 Richmond St W, Toronto, ON M5H 3W4</string>
+    <string name="rest11_name">Beerbistro</string>
+    <string name="rest11_add">18 King St E, Toronto, ON M5C 1C4</string>
 </resources>

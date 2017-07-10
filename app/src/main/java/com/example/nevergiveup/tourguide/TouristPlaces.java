@@ -15,18 +15,18 @@ public class TouristPlaces extends AppCompatActivity {
 //add the touristplace info
         ArrayList<Guide> guide = new ArrayList<Guide>();
 
-        guide.add(new Guide("CN Tower", "301 Front St W, Toronto, ON M5V 2T6", R.drawable.cn));
-        guide.add(new Guide("Hockey hall of fame", "30 Yonge St, Toronto, ON M5E 1X8", R.drawable.hockey));
-        guide.add(new Guide("Royal Ontario Museum", " 100 Queens Park, Toronto, ON M5S 2C6", R.drawable.royal));
-        guide.add(new Guide("Art gallery of Ontario", "317 Dundas St W, Toronto, ON M5T 1G4", R.drawable.art));
-        guide.add(new Guide("Ripley's aquarium of Canada", " 288 Bremner Blvd, Toronto, ON M5V 3L9", R.drawable.aquarium));
-        guide.add(new Guide("Toronto Islands", "9 Queens Quay West, Toronto, Ontario M5J 2H3, Canada", R.drawable.island));
-        guide.add(new Guide("Toronto Eaton Center", " 220 Yonge St, Toronto, ON M5B 2H1", R.drawable.eaton));
-        guide.add(new Guide("Ontario science Center", "770 Don Mills Rd, North York, ON M3C 1T3", R.drawable.science));
-        guide.add(new Guide("Union Center", " 65 Front St W, Toronto, ON M5J 1E6", R.drawable.union));
-        guide.add(new Guide("Allan Gardens", "19 Horticultural Ave, Toronto, ON M5A 2P2", R.drawable.allan));
-        guide.add(new Guide("Casa Loma", " 1 Austin Terrace, Toronto, ON M5R 1X8", R.drawable.casa));
-        guide.add(new Guide("Toronto Waterfront", " 20 Bay St, Toronto, ON M5J 2N8", R.drawable.water));
+        guide.add(new Guide(getString(R.string.tourist1_name), getString(R.string.tourist1_add), R.drawable.cn));
+        guide.add(new Guide(getString(R.string.tourist2_name), getString(R.string.tourist2_add), R.drawable.hockey));
+        guide.add(new Guide(getString(R.string.tourist3_name), getString(R.string.tourist3_add), R.drawable.royal));
+        guide.add(new Guide(getString(R.string.tourist4_name), getString(R.string.tourist4_add), R.drawable.art));
+        guide.add(new Guide(getString(R.string.tourist5_name), getString(R.string.tourist5_add), R.drawable.aquarium));
+        guide.add(new Guide(getString(R.string.tourist6_name), getString(R.string.tourist6_add), R.drawable.island));
+        guide.add(new Guide(getString(R.string.tourist7_name), getString(R.string.tourist7_add), R.drawable.eaton));
+        guide.add(new Guide(getString(R.string.tourist8_name), getString(R.string.tourist8_add), R.drawable.science));
+        guide.add(new Guide(getString(R.string.tourist9_name), getString(R.string.tourist9_add), R.drawable.union));
+        guide.add(new Guide(getString(R.string.tourist10_name), getString(R.string.tourist10_add), R.drawable.allan));
+        guide.add(new Guide(getString(R.string.tourist11_name), getString(R.string.tourist11_add), R.drawable.casa));
+        guide.add(new Guide(getString(R.string.tourist12_name), getString(R.string.tourist12_add), R.drawable.water));
 
 // Make the {@link ListView} use the {@link GuideAdapter} we created above, so that the
         // {@link ListView} will display list items for each {@link Guide} in the list.
